@@ -7,7 +7,7 @@ import (
 	"strconv"
 )
 
-const accountBalanceFile = "balance2.txt"
+const accountBalanceFile = "balance.txt"
 
 // extract from a file
 func extractBalanceFromFile() (float64, error) {
