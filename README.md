@@ -1,2 +1,2 @@
 # golangIndept
-My golang exercised during my cours
+My golang exercises during my cours
